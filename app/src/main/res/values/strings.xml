@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CLB Farm Owner</string>
+
+    // String Login
+    <string name="text_logo">CLB Farm Owner</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="msg_loading">Harap Tunggu...</string>
+    <string name="prompt_empty">Username dan Password harus diisi</string>
+    <string name="prompt_success_login">Berhasil Login</string>
+    <string name="prompt_failed_response">Gagal mendapatkan respon</string>
+    <string name="action_login">Login</string>
+    <string name="title_activity_main">CLB Farm Owner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CLB Farm Owner</string>
+    <string name="nav_header_subtitle">For Owner</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_box">Data Kotak</string>
+
+    <!--    Change Password-->
+    <string name="prompt_old_password">Password Lama</string>
+    <string name="prompt_new_password">Password Baru</string>
+    <string name="prompt_confirm_password">Konfirmasi Password Baru</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
